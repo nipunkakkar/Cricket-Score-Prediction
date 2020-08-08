@@ -19,12 +19,12 @@ Below is a sample webapp for Cricket Score Prediction on Heroku https://cricket-
 
 * Select Bat Team
 * Select Bowl Team
-Put Overs for eg 5.1-5.6 (Please note: Overs should not be below 5.1 or in this format 6.0, it should be 5.6 and not 6.0)
-Enter Runs
-Enter Wickets Fallen
-Enter Runs in last 5 overs eg 40
-Enter Wickets in last 5 overs eg 4
-Predict Score
+* Put Overs for eg 5.1-5.6 (Please note: Overs should not be below 5.1 or in this format 6.0, it should be 5.6 and not 6.0)
+* Enter Runs
+* Enter Wickets Fallen 
+* Enter Runs in last 5 overs eg 40
+* Enter Wickets in last 5 overs eg 4
+* Predict Score
 
 # Conclusion
 
