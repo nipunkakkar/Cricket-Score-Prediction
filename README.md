@@ -17,8 +17,8 @@ Below is a sample webapp for Cricket Score Prediction on Heroku https://cricket-
 
 # How to use Webapp
 
-Select Bat Team
-Select Bowl Team
+* Select Bat Team
+* Select Bowl Team
 Put Overs for eg 5.1-5.6 (Please note: Overs should not be below 5.1 or in this format 6.0, it should be 5.6 and not 6.0)
 Enter Runs
 Enter Wickets Fallen
@@ -28,5 +28,5 @@ Predict Score
 
 # Conclusion
 
-We can clearly see in Cricket-Score-Prediction.ipynb notebook that Ridge performed better than Lasso and CatBoost , 
+We can clearly see in Cricket_Score_Prediction.ipynb notebook that Ridge performed better than Lasso and CatBoost , 
 thus we will be using Ridge as our Machine Learning model and exporting same for the webapp and later use.
